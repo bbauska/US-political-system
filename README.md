@@ -4,7 +4,11 @@
 
 ## 2016 Election and Russia Investigations
 ### The Russia Probe (Crossfire Hurricane): 
-Beginning in 2017, Special Counsel Robert Mueller investigated Russian interference in the 2016 U.S. presidential election and potential coordination by the Trump campaign. While the final report concluded there was no established conspiracy with the Russian government, it detailed numerous attempts by Trump to obstruct the investigation. Several high-level campaign associates were indicted and convicted of various offenses.
+Beginning in 2017, Special Counsel Robert Mueller investigated Russian interference in the 2016 U.S. 
+presidential election and potential coordination by the Trump campaign. While the final report 
+concluded there was no established conspiracy with the Russian government, it detailed numerous 
+attempts by Trump to obstruct the investigation. Several high-level campaign associates were indicted 
+and convicted of various offenses.
 
 ## Impeachments and the 2020 Election
 ### Ukraine and the First Impeachment: 
@@ -31,8 +35,8 @@ criticized Trump for utilizing his own hotels, resorts, and properties to host f
 government officials, drawing allegations of unconstitutional financial gains.
 
 ### Presidential Pardons: 
-Critics frequently condemned Trump’s use of the presidential pardon power, arguing it was sometimes wielded to 
-reward loyalists or individuals connected to his own legal battles.
+Critics frequently condemned Trump’s use of the presidential pardon power, arguing it was sometimes 
+wielded to reward loyalists or individuals connected to his own legal battles.
 
 ## Pre-Presidential Scandals
 ### Trump University: 
@@ -131,82 +135,180 @@ at the rally "totally appropriate" and seemed to threaten the impeachment leader
 be removed via the 25th Amendment. "As the expression goes, be careful what you wish for.8﻿"
 
 <h2>2020 Election</h2>
-The 2020 presidential election pitted incumbent Trump against Democrat Joe Biden, a former U.S. Senator from Delaware and the former vice president to Trump's predecessor, Barack Obama. Following Trump's loss in the election, rather than conceding and working on the usual peaceful transition of power to the next administration, Trump and his allies filed dozens of lawsuits and made numerous speeches claiming election fraud and attempting to overturn the results of the election, particularly in swing states that broke for Biden.
+The 2020 presidential election pitted incumbent Trump against Democrat Joe Biden, a former U.S. Senator from 
+Delaware and the former vice president to Trump's predecessor, Barack Obama. Following Trump's loss in the 
+election, rather than conceding and working on the usual peaceful transition of power to the next administration, 
+Trump and his allies filed dozens of lawsuits and made numerous speeches claiming election fraud and attempting 
+to overturn the results of the election, particularly in swing states that broke for Biden.
 
 <h3>What the Scandal Is About</h3>
-In a nutshell, the scandal is about the losing candidate of a presidential election refusing to accept the results. Due to the COVID-19 pandemic, several states changed or updated their rules regarding mail-in and early voting in an attempt to make voting safer during a deadly pandemic. Because of this, it took a little more time to count votes (many states require mail-in votes to be counted last), and Trump's team falsely claimed that this was actually evidence of voter fraud.
+In a nutshell, the scandal is about the losing candidate of a presidential election refusing to accept the 
+results. Due to the COVID-19 pandemic, several states changed or updated their rules regarding mail-in and 
+early voting in an attempt to make voting safer during a deadly pandemic. Because of this, it took a little 
+more time to count votes (many states require mail-in votes to be counted last), and Trump's team falsely 
+claimed that this was actually evidence of voter fraud.
 
-Trump's team filed over sixty lawsuits alleging irregularities and attempting to overturn results in states including Arizona, Georgia, Michigan, Nevada, Pennsylvania, and Wisconsin - all swing states that Biden won. In court, in contrast to the fiery language targeted at the public, Trump's lawyers alleged procedural irregularities.9﻿ All but one of their cases was thrown out, and the one temporary win was later overturned.
+Trump's team filed over sixty lawsuits alleging irregularities and attempting to overturn results in states 
+including Arizona, Georgia, Michigan, Nevada, Pennsylvania, and Wisconsin - all swing states that Biden won. 
+In court, in contrast to the fiery language targeted at the public, Trump's lawyers alleged procedural 
+irregularities.9﻿ All but one of their cases was thrown out, and the one temporary win was later overturned.
 
 <h3>What Critics Say</h3>
-Even the legal and judicial professionals who oversaw the Trump campaign's lawsuits had strong words for the president. One Michigan judge, for instance, denied an injunction to halt certification of the state's votes with a blunt ruling that stated, in part, "Plaintiffs’ allegation is mere speculation... [they] offered no evidence to support their assertions.10﻿"
+Even the legal and judicial professionals who oversaw the Trump campaign's lawsuits had strong words for 
+the president. One Michigan judge, for instance, denied an injunction to halt certification of the state's 
+votes with a blunt ruling that stated, in part, "Plaintiffs’ allegation is mere speculation... [they] 
+offered no evidence to support their assertions.10﻿"
 
-Another ruling, this one out of Pennsylvania, offered a sharp rebuke to Republicans seeking to overturn the state's votes. "This lawsuit seems to be less about achieving the relief plaintiffs seek ... and more about the impact of their allegations on people’s faith in the democratic process and their trust in our government... Plaintiffs ask this court to ignore the orderly statutory scheme established to challenge elections and to ignore the will of millions of voters. This, the court cannot, and will not, do.11﻿"
+Another ruling, this one out of Pennsylvania, offered a sharp rebuke to Republicans seeking to overturn the 
+state's votes. "This lawsuit seems to be less about achieving the relief plaintiffs seek ... and more about 
+the impact of their allegations on people’s faith in the democratic process and their trust in our government... 
+Plaintiffs ask this court to ignore the orderly statutory scheme established to challenge elections and to 
+ignore the will of millions of voters. This, the court cannot, and will not, do.11﻿"
 
 <h3>What Trump Says</h3>
-Trump and his closest allies, such as lawyers Rudy Giuliani and Sidney Powell, pushed a variety of conspiracy theories about the election. Trump refused to concede the election, continuing to insist that he actually won, even after every legal avenue was exhausted. The closest Trump came to admitting his loss came in a video on the heels of the January 2021 Capitol riot, when he said "a new administration will be inaugurated on January 20th.12﻿"
+Trump and his closest allies, such as lawyers Rudy Giuliani and Sidney Powell, pushed a variety of conspiracy 
+theories about the election. Trump refused to concede the election, continuing to insist that he actually won, 
+even after every legal avenue was exhausted. The closest Trump came to admitting his loss came in a video on 
+the heels of the January 2021 Capitol riot, when he said "a new administration will be inaugurated on January 
+20th.12﻿"
 
 <h3>The Russia Scandal</h3>
-The Russia scandal was the most serious of the controversies surrounding the Trump presidency in its early days. It involved a number of key players besides the president himself, including the national security adviser and the FBI director. The Russia scandal had its origins in the general election campaign between Trump, a Republican, and former U.S. Sen. and onetime Secretary of State Hillary Clinton, a Democrat. Both the FBI and CIA said hackers who targeted the Democratic National Committee and the private emails of Clinton’s campaign chairman were working for Moscow, hoping to sway the election to Trump.13
-Entous, Adam, et al. "Secret CIA Assessment Says Russia Was Trying to Help Trump Win the White House." The Washington Post, 9 December 2016, https://www.washingtonpost.com/world/national-security/obama-orders-review-of-russian-hacking-during-presidential-campaign/2016/12/09/31d6b300-be2a-11e6-94ac-3d324840106c_story.html.
+The Russia scandal was the most serious of the controversies surrounding the Trump presidency in its early 
+days. It involved a number of key players besides the president himself, including the national security 
+adviser and the FBI director. The Russia scandal had its origins in the general election campaign between 
+Trump, a Republican, and former U.S. Sen. and onetime Secretary of State Hillary Clinton, a Democrat. Both 
+the FBI and CIA said hackers who targeted the Democratic National Committee and the private emails of Clinton’s 
+campaign chairman were working for Moscow, hoping to sway the election to Trump.13
+Entous, Adam, et al. "Secret CIA Assessment Says Russia Was Trying to Help Trump Win the White House." The 
+Washington Post, 9 December 2016, https://www.washingtonpost.com/world/national-security/obama-orders-review-of-russian-hacking-during-presidential-campaign/2016/12/09/31d6b300-be2a-11e6-94ac-3d324840106c_story.html.
 
-﻿U.S. intelligence agencies also said that Russia was working to sow dissent and confusion among American voters in an attempt to undermine its democratic institutions.
+﻿U.S. intelligence agencies also said that Russia was working to sow dissent and confusion among American 
+voters in an attempt to undermine its democratic institutions.
 
 <h3>What the Scandal Is About</h3>
-At its core, this scandal is about national security and the integrity of the American voting system. That a foreign government was able to interfere in a presidential election to help one candidate win is an unprecedented breach. The Office of the Director of National Intelligence said it had "high confidence" the Russian government sought to help win the election for Trump. "We assess Russian President Vladimir Putin ordered an influence campaign in 2016 aimed at the US presidential election. Russia’s goals were to undermine public faith in the US democratic process, denigrate Secretary (Hillary) Clinton, and harm her electability and potential presidency. We further assess Putin and the Russian Government developed a clear preference for President-elect Trump," the report stated.14﻿
+At its core, this scandal is about national security and the integrity of the American voting system. That a 
+foreign government was able to interfere in a presidential election to help one candidate win is an 
+unprecedented breach. The Office of the Director of National Intelligence said it had "high confidence" the 
+Russian government sought to help win the election for Trump. "We assess Russian President Vladimir Putin 
+ordered an influence campaign in 2016 aimed at the US presidential election. Russia’s goals were to undermine 
+public faith in the US democratic process, denigrate Secretary (Hillary) Clinton, and harm her electability 
+and potential presidency. We further assess Putin and the Russian Government developed a clear preference 
+for President-elect Trump," the report stated.14﻿
 
 <h3>What Critics Say</h3>
-Critics of Trump were troubled by the connections between the Trump campaign and Russians. They successfully called for an independent special prosecutor to get to the bottom of the hacking. Former FBI Director Robert Mueller was later appointed as a special counsel to handle the investigation into campaign ties between Trump and Russia.
+Critics of Trump were troubled by the connections between the Trump campaign and Russians. They successfully 
+called for an independent special prosecutor to get to the bottom of the hacking. Former FBI Director Robert 
+Mueller was later appointed as a special counsel to handle the investigation into campaign ties between Trump 
+and Russia.
 
-Some Democrats began talking openly about the prospect of impeaching Trump. “I know that there are those who are talking about, ‘Well, we’re going to get ready for the next election.' No, we can’t wait that long. We don’t need to wait that long. He will have destroyed this country by then," Democratic U.S. Rep. Maxine Waters of California said.15﻿ In 2018, Deputy U.S. Attorney General Rod Rosenstein reportedly suggested he secretly record Trump in the White House to "expose the chaos consuming the administration" and was said to have discussed recruiting cabinet members to invoke the 25th Amendment, which allows for the forceful removal of a president.16﻿ Rosenstein denied the reports.
+Some Democrats began talking openly about the prospect of impeaching Trump. “I know that there are those who 
+are talking about, ‘Well, we’re going to get ready for the next election.' No, we can’t wait that long. We 
+don’t need to wait that long. He will have destroyed this country by then," Democratic U.S. Rep. Maxine Waters 
+of California said.15﻿ In 2018, Deputy U.S. Attorney General Rod Rosenstein reportedly suggested he secretly 
+record Trump in the White House to "expose the chaos consuming the administration" and was said to have 
+discussed recruiting cabinet members to invoke the 25th Amendment, which allows for the forceful removal 
+of a president.16﻿ Rosenstein denied the reports.
 
-On March 22, 2019, Special Counsel Robert Mueller concluded his investigation. Two days later, Attorney General William Barr released a four-page "summary" claiming that the report "did not find that the Trump campaign or anyone associated with it conspired or coordinated with Russia to influence the 2016 U.S. presidential election.17﻿" However, Mueller privately wrote to Barr,18﻿ noting that Barr's summary did not adequately explain the report and had led to "public confusion about critical aspects of the results of [the] investigation." He asked Barr to release other non-redacted sections of the report (an introduction and an executive summary) to clarify to the public; Barr refused.
+On March 22, 2019, Special Counsel Robert Mueller concluded his investigation. Two days later, Attorney 
+General William Barr released a four-page "summary" claiming that the report "did not find that the Trump 
+campaign or anyone associated with it conspired or coordinated with Russia to influence the 2016 U.S. 
+presidential election.17﻿" However, Mueller privately wrote to Barr,18﻿ noting that Barr's summary did not 
+adequately explain the report and had led to "public confusion about critical aspects of the results of 
+[the] investigation." He asked Barr to release other non-redacted sections of the report (an introduction 
+and an executive summary) to clarify to the public; Barr refused.
 
-In August 2020, the bipartisan, Republican-majority United States Senate Select Committee on Intelligence released its final report on the links between Trump, Russia, and the 2016 election.19﻿ The lengthy report concluded that there had been significant links between the Trump campaign and Russia; of particular note was how former campaign chair Paul Manafort hired a former Russian intelligence operative who may have been involved in the DNC hack and leaks.
+In August 2020, the bipartisan, Republican-majority United States Senate Select Committee on Intelligence 
+released its final report on the links between Trump, Russia, and the 2016 election.19﻿ The lengthy report 
+concluded that there had been significant links between the Trump campaign and Russia; of particular note 
+was how former campaign chair Paul Manafort hired a former Russian intelligence operative who may have been 
+involved in the DNC hack and leaks.
 
 <h3>What Trump Says</h3>
-The president has said the allegations of Russian interference are an excuse used by Democrats still smarting over an election they believed they should have been able to win easily. "This Russia thing - with Trump and Russia - is a made-up story. It's an excuse by the Democrats for having lost an election that they should have won," Trump said.20﻿
+The president has said the allegations of Russian interference are an excuse used by Democrats still smarting 
+over an election they believed they should have been able to win easily. "This Russia thing - with Trump and 
+Russia - is a made-up story. It's an excuse by the Democrats for having lost an election that they should have 
+won," Trump said.20﻿
 
-Towards the end of his presidency, Trump pardoned key players in the Russia scandal, including Manafort and Michael Flynn, a former lieutenant general who had pled guilty to misleading testimony about his communications with the Russian ambassador.
+Towards the end of his presidency, Trump pardoned key players in the Russia scandal, including Manafort and 
+Michael Flynn, a former lieutenant general who had pled guilty to misleading testimony about his communications 
+with the Russian ambassador.
 
 <h2>The Firing of James Comey</h2>
 James Comey
-Former FBI Director James Comey leaves a Senate Intelligence Committee hearing in 2017. Drew Angerer/Getty Images News
-Trump fired FBI Director James Comey in May 2017 and blamed senior Justice Department officials for the move. Democrats had viewed Comey with suspicion because, 11 days before the 2016 presidential election, he announced he was reviewing emails found on a laptop computer belonging to a Hillary Clinton confidant to determine whether they were relevant to the then-closed investigation of her use of the personal email server.
+Former FBI Director James Comey leaves a Senate Intelligence Committee hearing in 2017. Drew Angerer/Getty 
+Images News Trump fired FBI Director James Comey in May 2017 and blamed senior Justice Department officials 
+for the move. Democrats had viewed Comey with suspicion because, 11 days before the 2016 presidential election, 
+he announced he was reviewing emails found on a laptop computer belonging to a Hillary Clinton confidant to 
+determine whether they were relevant to the then-closed investigation of her use of the personal email server.
 
 <h3>What the Scandal Is About</h3>
-At the time of his firing, Comey was directing the investigation into Russians' interference in the 2016 presidential election and whether any of Trump's advisers or campaign staff had colluded with them. Trump's firing of the FBI director was seen as a way to halt the investigation, and Comey later testified under oath that Trump asked him to drop his investigation of the former national security adviser, Michael Flynn.21﻿ Flynn had misled the White House about his conversations with the Russian ambassador to the United States. 
+At the time of his firing, Comey was directing the investigation into Russians' interference in the 2016 
+presidential election and whether any of Trump's advisers or campaign staff had colluded with them. Trump's 
+firing of the FBI director was seen as a way to halt the investigation, and Comey later testified under oath 
+that Trump asked him to drop his investigation of the former national security adviser, Michael Flynn.21﻿ 
+Flynn had misled the White House about his conversations with the Russian ambassador to the United States. 
 
 <h3>What Critics Say</h3>
-Critics of Trump clearly believe Trump's firing of Comey, which was abrupt and unexpected, was a clear attempt to interfere with the FBI's investigation of Russian interference with the 2016 election. Some said it was worse than the cover-up in the Watergate scandal, which led to President RIchard Nixon's resignation. “Russia attacked our democracy and the American people deserve answers. President Trump’s decision to make this move ... is an attack on the rule of law and raises more questions that demand answers. Firing the FBI Director does not place the White House, the President, or his campaign above the law," said Democratic U.S. Sen. Tammy Baldwin of Wisconsin.22﻿
+Critics of Trump clearly believe Trump's firing of Comey, which was abrupt and unexpected, was a clear attempt 
+to interfere with the FBI's investigation of Russian interference with the 2016 election. Some said it was 
+worse than the cover-up in the Watergate scandal, which led to President RIchard Nixon's resignation. “Russia 
+attacked our democracy and the American people deserve answers. President Trump’s decision to make this move 
+... is an attack on the rule of law and raises more questions that demand answers. Firing the FBI Director 
+does not place the White House, the President, or his campaign above the law," said Democratic U.S. Sen. 
+Tammy Baldwin of Wisconsin.22﻿
 
-Even Republicans were troubled by the firing. Republican U.S. Sen. Richard Burr of North Carolina said he was “troubled by the timing and reasoning of Director Comey’s termination. I have found Director Comey to be a public servant of the highest order, and his dismissal further confuses an already difficult investigation by the Committee."23﻿
+Even Republicans were troubled by the firing. Republican U.S. Sen. Richard Burr of North Carolina said he was 
+“troubled by the timing and reasoning of Director Comey’s termination. I have found Director Comey to be a 
+public servant of the highest order, and his dismissal further confuses an already difficult investigation 
+by the Committee."23﻿
 
 <h3>What Trump Says</h3>
-Trump has called coverage of the Russia investigation "fake news" and said there is no evidence Russia changed the outcome of the presidential election. The president tweeted: "This is the single greatest witch hunt of a politician in American history!" Trump has said he looked forward to "this matter concluding quickly. As I have stated many times, a thorough investigation will confirm what we already know — there was no collusion between my campaign and any foreign entity.24﻿"
+Trump has called coverage of the Russia investigation "fake news" and said there is no evidence Russia changed 
+the outcome of the presidential election. The president tweeted: "This is the single greatest witch hunt of a 
+politician in American history!" Trump has said he looked forward to "this matter concluding quickly. As I have 
+stated many times, a thorough investigation will confirm what we already know — there was no collusion between 
+my campaign and any foreign entity.24﻿"
 
 <h2>The Resignation of Michael Flynn</h2>
 National Security Adviser Michael Flynn
 National Security Adviser Michael Flynn is pictured here in Washington, D.C. Mario Tama/Getty Images News
-Lt. Gen. Michael Flynn was tapped by Trump to be his national security adviser in November 2016, just days after the presidential election. He resigned the position after just 24 days on the job, in February of 2017 after The Washington Post reported that he lied to Vice President Mike Pence and other White House officials about his meetings with a Russian ambassador to the United States.25﻿
+Lt. Gen. Michael Flynn was tapped by Trump to be his national security adviser in November 2016, just days after 
+the presidential election. He resigned the position after just 24 days on the job, in February of 2017 after The 
+Washington Post reported that he lied to Vice President Mike Pence and other White House officials about his 
+meetings with a Russian ambassador to the United States.25﻿
 
 <h3>What the Scandal Is About</h3>
-The meetings Flynn had with the Russian ambassador were portrayed as being potentially illegal, and his alleged cover-up of them concerned the Justice Department, which believed his mischaracterization made him vulnerable to blackmail by the Russians. Flynn was said to have discussed U.S. sanctions on Russia with the ambassador.26﻿ 
+The meetings Flynn had with the Russian ambassador were portrayed as being potentially illegal, and his alleged 
+cover-up of them concerned the Justice Department, which believed his mischaracterization made him vulnerable 
+to blackmail by the Russians. Flynn was said to have discussed U.S. sanctions on Russia with the ambassador.26﻿ 
 
 <h3>What Critics Say</h3>
-Critics of Trump saw the Flynn controversy as further evidence of the presidential campaign's ties to Russia and its possible collusion with Russia to damage Clinton.
+Critics of Trump saw the Flynn controversy as further evidence of the presidential campaign's ties to Russia 
+and its possible collusion with Russia to damage Clinton.
 
 <h3>What Trump Says</h3>
-The Trump White House was more concerned about leaks to the news media that about the actual nature of Flynn's conversations with the Russian ambassador. Trump himself reportedly asked Comey to drop his investigation of Flynn, saying, “I hope you can see your way clear to letting this go, to letting Flynn go,” according to The New York Times.27﻿
+The Trump White House was more concerned about leaks to the news media that about the actual nature of Flynn's 
+conversations with the Russian ambassador. Trump himself reportedly asked Comey to drop his investigation of 
+Flynn, saying, “I hope you can see your way clear to letting this go, to letting Flynn go,” according to The 
+New York Times.27﻿
 
 <h2>Public Service and Private Gain</h2>
-Trump has dismissed such claims as being "without merit" and has remained defiant about maintaining ownership of his vast network of real estate and business holdings.
+Trump has dismissed such claims as being "without merit" and has remained defiant about maintaining ownership 
+of his vast network of real estate and business holdings.
 
 <h2>Donald Trump inaugural ball</h2>
-President Donald Trump and First Lady Melania Trump dance at the Freedom Ball on January 20, 2017. Kevin Dietsch - Pool / Getty Images
-Trump, a wealthy businessman who operates country clubs and resorts, reportedly profited from at least 10 foreign governments during his time as president. The include the Kuwaiti Embassy, which booked the Trump hotel for an event; a public-relations firm hired by Saudi Arabia that spent $270,000 on rooms, meals and parking at Trump's hotel in Washington; and Turkey, which used the same facility for a government-sponsored event.
+President Donald Trump and First Lady Melania Trump dance at the Freedom Ball on January 20, 2017. Kevin Dietsch 
+- Pool / Getty Images
+Trump, a wealthy businessman who operates country clubs and resorts, reportedly profited from at least 10 
+foreign governments during his time as president. The include the Kuwaiti Embassy, which booked the Trump 
+hotel for an event; a public-relations firm hired by Saudi Arabia that spent $270,000 on rooms, meals and 
+parking at Trump's hotel in Washington; and Turkey, which used the same facility for a government-sponsored 
+event.
 
-Throughout his presidency, Trump also spent a large amount of time at resorts and golf courses owned by his own company - meaning that the U.S. government and taxpayers have been paying for presidential trips and security to properties that directly profit Trump himself. One estimate had the cost at over $142 million as of November 2020.28﻿
+Throughout his presidency, Trump also spent a large amount of time at resorts and golf courses owned by his 
+own company - meaning that the U.S. government and taxpayers have been paying for presidential trips and 
+security to properties that directly profit Trump himself. One estimate had the cost at over $142 million 
+as of November 2020.28﻿
 
 <h3>What the Scandal Is About</h3>
 Critics argue Trump's acceptance of payments from foreign governments violates the Foreign Emoluments Clause, which bans elected officials in the United States from accepting gifts or other valuables from foreign leaders. The Constitution states: "No Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State."
@@ -227,13 +329,27 @@ The most powerful elected official in the universe has an army of paid spokesmen
 <h3>What the Scandal Is About</h3>
 There is no filter between the thoughts, ideas and emotions held by Trump and the expression of them on Twitter. Trump has used tweets to mock foreign leaders in times of crisis, hammer his political foes in Congress and even accuse Obama of bugging his office in Trump Tower. "Terrible! Just found out that Obama had my 'wires tapped' in Trump Tower just before the victory. Nothing found. This is McCarthyism!" Trump tweeted. The claim was unsubstantiated and quickly debunked. Trump also used Twitter to attack London Mayor Sadiq Khan shortly after a terrorist attack in 2017. "At least 7 dead and 48 wounded in terror attack and Mayor of London says there is 'no reason to be alarmed!'" Trump tweeted.
 
-Trump's use of Twitter also was central to the controversy over the January 6 Capitol riot, where he used the platform to urge his supporters on prior to the insurrection. Hours after the initial violence, he used Twitter to post a video message in which he repeated his lies about election fraud, told his followers "we love you, you’re very special," and, shortly after, tweeted, "These are the things and events that happen when a sacred landslide election victory is so unceremoniously & viciously stripped away from great patriots who have been badly & unfairly treated for so long.30﻿" As a result, Twitter first suspended his account, then banned it permanently.
+Trump's use of Twitter also was central to the controversy over the January 6 Capitol riot, where 
+he used the platform to urge his supporters on prior to the insurrection. Hours after the initial 
+violence, he used Twitter to post a video message in which he repeated his lies about election 
+fraud, told his followers "we love you, you’re very special," and, shortly after, tweeted, "These 
+are the things and events that happen when a sacred landslide election victory is so unceremoniously 
+& viciously stripped away from great patriots who have been badly & unfairly treated for so long.30﻿" 
+As a result, Twitter first suspended his account, then banned it permanently.
 
 <h3>What Critics Say</h3>
-The idea that Trump, whose bombastic and brash manner of speaking is off-putting in diplomatic settings, is posting what amount to be official statements without being advised by White House staff or policy experts worries many observers. “The idea he would tweet without anyone reviewing it or thinking about what he’s saying is frankly pretty frightening,” Larry Noble, general counsel of the Campaign Legal Center in Washington, D.C., told Wired.31﻿
+The idea that Trump, whose bombastic and brash manner of speaking is off-putting in diplomatic 
+settings, is posting what amount to be official statements without being advised by White House 
+staff or policy experts worries many observers. “The idea he would tweet without anyone reviewing 
+it or thinking about what he’s saying is frankly pretty frightening,” Larry Noble, general counsel 
+of the Campaign Legal Center in Washington, D.C., told Wired.31﻿
 
 <h3>What Trump Says</h3>
-Trump has no regrets about any of his tweets or even using Twitter to communicate with his supporters. “I don’t regret anything, because there is nothing you can do about it. You know if you issue hundreds of tweets, and every once in a while you have a clinker, that’s not so bad,” Trump told a Financial Times interviewer. “Without the tweets, I wouldn’t be here . . . I have over 100 million followers between Facebook, Twitter, Instagram. Over 100 million. I don’t have to go to the fake media.32﻿”
+Trump has no regrets about any of his tweets or even using Twitter to communicate with his supporters. 
+“I don’t regret anything, because there is nothing you can do about it. You know if you issue hundreds 
+of tweets, and every once in a while you have a clinker, that’s not so bad,” Trump told a Financial 
+Times interviewer. “Without the tweets, I wouldn’t be here . . . I have over 100 million followers 
+between Facebook, Twitter, Instagram. Over 100 million. I don’t have to go to the fake media.32﻿”
 
 
 High Crimes and Misdemeanors Explained
