@@ -1,8 +1,48 @@
-# US-political-system
-The US political system since Trump 2.0. So much criminal action.
 <h1>U.S. Political System</h1>
-<h2>The Biggest Donald Trump Scandals (So Far) (June 1, 2026)</h2>
+<h2>The Biggest Donald Trump Scandals (as of June 1, 2026)</h2>
 <h3>White House Insiders Describe an Administration in Chaos</h3>
+
+## 2016 Election and Russia Investigations
+### The Russia Probe (Crossfire Hurricane): 
+Beginning in 2017, Special Counsel Robert Mueller investigated Russian interference in the 2016 U.S. presidential election and potential coordination by the Trump campaign. While the final report concluded there was no established conspiracy with the Russian government, it detailed numerous attempts by Trump to obstruct the investigation. Several high-level campaign associates were indicted and convicted of various offenses.
+
+## Impeachments and the 2020 Election
+### Ukraine and the First Impeachment: 
+Trump was impeached by the House of Representatives in 2019 for abuse of power and obstruction of Congress. 
+The scandal centered on allegations that he withheld congressionally mandated military aid to pressure the 
+Ukrainian president to announce investigations into Joe Biden.
+
+### The 2020 Election and January 6: 
+Trump's attempts to overturn the 2020 election results, culminating in the January 6, 2021 attack on the 
+U.S. Capitol, led to his second impeachment in 2021. He was charged with incitement of insurrection but 
+ultimately acquitted by the Senate.
+
+## Criminal Trials and Indictments
+### New York Business Fraud Trial: 
+Following a sweeping investigation into the Trump Organization's business 
+practices, Trump was criminally indicted and convicted in New York of 34 felony counts of falsifying 
+business records to conceal a "hush money" payment made to a porn star during the 2016 campaign.
+
+## Emoluments and Conflicts of Interest
+### Emoluments Clause Controversies: 
+Throughout both his first and second terms, watchdog groups and congressional Democrats raised alarms over 
+the commingling of Trump's presidential duties with his personal business interests. Ethics experts 
+criticized Trump for utilizing his own hotels, resorts, and properties to host foreign dignitaries and 
+government officials, drawing allegations of unconstitutional financial gains.
+
+### Presidential Pardons: 
+Critics frequently condemned Trump’s use of the presidential pardon power, arguing it was sometimes wielded to 
+reward loyalists or individuals connected to his own legal battles.
+
+## Pre-Presidential Scandals
+### Trump University: 
+Prior to his presidency, Trump faced numerous class-action fraud lawsuits regarding his real-estate 
+seminar business, Trump University. The controversies ended with a $25 million settlement in 2016.
+### Trump Foundation: 
+In 2018, the New York Attorney General successfully sued the Trump Foundation over allegations of 
+"persistently illegal conduct", which ultimately forced the charity to dissolve and distribute its 
+remaining assets to other organizations.For tips on how political commentators contextualize the 
+sheer volume and continuous news cycle of Trump administration scandals:
 
 <h4>Key Takeaways</h4>
 
